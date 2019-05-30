@@ -3,8 +3,8 @@ Interpolation using RBF Neural Networks
 
 ## REQUIREMENTS
 
-Python > 3.5
-Numpy
+Python > 3.5 \\
+Numpy \\
 Matplotlib
 
 ## USAGE
