@@ -11,4 +11,4 @@ Matplotlib
 
 ## USAGE
 
-1. Run RBFN.py file.
+Run RBFN.py file.
